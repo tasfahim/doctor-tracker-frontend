@@ -155,7 +155,3 @@ https://github.com/tasfahim/doctor-tracker-frontend
 - API communication is centralized to maintain consistency.
 - User preferences include theme and language settings.
 - Environment-specific configuration should be maintained outside the source code.
-
-## License
-
-This project was developed as part of a technical assessment. All rights are reserved unless otherwise specified.
